@@ -1,4 +1,5 @@
-![Proyecto_Aerolineas Base_de_Datos_Avanzadas](https://github.com/Franciscolrf/MongoRestaurantes_LopezFrancisco/assets/150647816/af68ff32-045f-4ecc-b1bc-be7dc2944203
+![Proyecto_Aerolineas Base_de_Datos_Avanzadas](
+https://github.com/Franciscolrf/aerolineasMongo_FranciscoLopez/assets/150647816/fae035d3-04c6-4f10-abbc-92d0c6356fab
 )
 
 
