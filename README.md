@@ -1,5 +1,5 @@
 ![Proyecto_Aerolineas Base_de_Datos_Avanzadas](
-https://github.com/Franciscolrf/aerolineasMongo_FranciscoLopez/assets/150647816/fae035d3-04c6-4f10-abbc-92d0c6356fab
+https://github.com/Franciscolrf/aerolineasMongo_FranciscoLopez/assets/150647816/d9a43806-12fa-41f5-bddb-79d264729dc6
 )
 
 
